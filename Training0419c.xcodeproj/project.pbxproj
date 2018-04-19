@@ -13,6 +13,7 @@
 		2EF2E102208828D700A836FD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2EF2E101208828D700A836FD /* Assets.xcassets */; };
 		2EF2E105208828D700A836FD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2EF2E103208828D700A836FD /* LaunchScreen.storyboard */; };
 		2EF2E108208828D700A836FD /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EF2E107208828D700A836FD /* main.m */; };
+		2EF2E110208849BD00A836FD /* changeColorViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EF2E10F208849BD00A836FD /* changeColorViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		2EF2E104208828D700A836FD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2EF2E106208828D700A836FD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2EF2E107208828D700A836FD /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		2EF2E10E208849BD00A836FD /* changeColorViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = changeColorViewController.h; sourceTree = "<group>"; };
+		2EF2E10F208849BD00A836FD /* changeColorViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = changeColorViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +66,8 @@
 				2EF2E0FB208828D700A836FD /* ViewController.h */,
 				2EF2E0FC208828D700A836FD /* ViewController.m */,
 				2EF2E0FE208828D700A836FD /* Main.storyboard */,
+				2EF2E10E208849BD00A836FD /* changeColorViewController.h */,
+				2EF2E10F208849BD00A836FD /* changeColorViewController.m */,
 				2EF2E101208828D700A836FD /* Assets.xcassets */,
 				2EF2E103208828D700A836FD /* LaunchScreen.storyboard */,
 				2EF2E106208828D700A836FD /* Info.plist */,
@@ -144,6 +149,7 @@
 			files = (
 				2EF2E0FD208828D700A836FD /* ViewController.m in Sources */,
 				2EF2E108208828D700A836FD /* main.m in Sources */,
+				2EF2E110208849BD00A836FD /* changeColorViewController.m in Sources */,
 				2EF2E0FA208828D700A836FD /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
