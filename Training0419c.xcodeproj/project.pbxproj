@@ -14,6 +14,7 @@
 		2EF2E105208828D700A836FD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2EF2E103208828D700A836FD /* LaunchScreen.storyboard */; };
 		2EF2E108208828D700A836FD /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EF2E107208828D700A836FD /* main.m */; };
 		2EF2E110208849BD00A836FD /* changeColorViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EF2E10F208849BD00A836FD /* changeColorViewController.m */; };
+		2EF9C1372091D92100C33AC7 /* changeImageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EF9C1362091D92100C33AC7 /* changeImageViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		2EF2E107208828D700A836FD /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		2EF2E10E208849BD00A836FD /* changeColorViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = changeColorViewController.h; sourceTree = "<group>"; };
 		2EF2E10F208849BD00A836FD /* changeColorViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = changeColorViewController.m; sourceTree = "<group>"; };
+		2EF9C1352091D92100C33AC7 /* changeImageViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = changeImageViewController.h; sourceTree = "<group>"; };
+		2EF9C1362091D92100C33AC7 /* changeImageViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = changeImageViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +75,8 @@
 				2EF2E103208828D700A836FD /* LaunchScreen.storyboard */,
 				2EF2E106208828D700A836FD /* Info.plist */,
 				2EF2E107208828D700A836FD /* main.m */,
+				2EF9C1352091D92100C33AC7 /* changeImageViewController.h */,
+				2EF9C1362091D92100C33AC7 /* changeImageViewController.m */,
 			);
 			path = Training0419c;
 			sourceTree = "<group>";
@@ -147,6 +152,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2EF9C1372091D92100C33AC7 /* changeImageViewController.m in Sources */,
 				2EF2E0FD208828D700A836FD /* ViewController.m in Sources */,
 				2EF2E108208828D700A836FD /* main.m in Sources */,
 				2EF2E110208849BD00A836FD /* changeColorViewController.m in Sources */,

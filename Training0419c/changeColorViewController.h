@@ -19,6 +19,8 @@
     __weak IBOutlet UISlider *sliderAlpha;
     
     __weak IBOutlet UIImageView *targetImageView;
+    
+    
 }
 
 @end
