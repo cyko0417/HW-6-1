@@ -21,6 +21,8 @@
     currIndex=0;
     imageArray = [[NSArray alloc] initWithObjects: @"carbi.png", @"lapras.png", @"fast.png", @"dengi.png", @"dragon3.png", nil];
     distribution=[GKRandomDistribution distributionWithLowestValue:0 highestValue:imageArray.count-1];
+    
+    [self changeImageButtonPushed:nil];
 }
 
 - (void)didReceiveMemoryWarning {
